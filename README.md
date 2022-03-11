@@ -18,7 +18,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 </a>
 
-![Visitas](https://img.shields.io/github/watchers/expertgod/expergod?color=335FFF&label=Visitas&logo=github&style=social)
+![Visitas](https://img.shields.io/github/watchers/expertgod/expertgod?color=335FFF&label=Visitas&style=social)
 
 <a href="https://twitter.com/expertgodgg">
   <img align="right" alt="ExpertGod Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
