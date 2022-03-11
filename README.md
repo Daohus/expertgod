@@ -2,8 +2,6 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
-
 **Sobre mi**
 
 - 💼 Mi discord: [Click aqui](https://discord.gg/pxS868BWeF)
