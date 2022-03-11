@@ -6,13 +6,14 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 **Sobre mi**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Mi discord: [Click aqui](https://discord.gg/pxS868BWeF)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 📈 Trabajando en: **Azurite** & **Azurite Music**
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ Programo bots de discord usando Javascript
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+# Contacto
+contact@expertgod.tk
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
@@ -21,9 +22,6 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
+<a href="https://twitter.com/expertgodgg">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
