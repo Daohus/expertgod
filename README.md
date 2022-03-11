@@ -25,5 +25,5 @@ contact@expertgod.tk
   <img align="right" alt="ExpertGod Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC05ZWbCx1mIqA3F_Y7f8G-g">
-  <img align="right" alt="ExpertGod YouTube" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/youtube.svg" />
+  <img align="right" alt="ExpertGod YouTube" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/2048px-YouTube_social_white_square_%282017%29.svg.png" />
 </a>
