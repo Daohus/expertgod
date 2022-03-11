@@ -19,5 +19,8 @@ contact@expertgod.tk
 
 
 <a href="https://twitter.com/expertgodgg">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord.svg" />
+  <img align="right" alt="ExpertGod Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord.svg" />
+</a>
+<a href="https://discord.gg/pxS868BWeF">
+  <img align="right" alt="ExpertGod Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
