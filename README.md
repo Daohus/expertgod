@@ -6,7 +6,7 @@
 
 - 💼 Mi discord: [Click aqui](https://discord.gg/pxS868BWeF)
 
-- 📈 Trabajando en: **Azurite Team** & **SimSimi bot**
+- 📈 Trabajando en: **Simsimi** & **MineStatus**
 
 - ❤️ Programo bots de discord usando Javascript
 ---
