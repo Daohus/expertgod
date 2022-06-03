@@ -4,9 +4,7 @@
 
 # SOBRE MI
 
-- 💼 Mi discord: [Click aqui](https://discord.gg/pxS868BWeF)
-
-- 📈 Trabajando en: **Simsimi** & **MineStatus**
+- 📈 Trabajando en: **Simsimi** & **MineStatus** [discord](https://discord.gg/4zgxmJJbf6)
 
 - ❤️ Programo bots de discord usando Javascript
 ---
