@@ -5,8 +5,7 @@
 # SOBRE MI
 
 - 📈 Trabajando en: **Simsimi** & **MineStatus** [discord](https://discord.gg/4zgxmJJbf6)
-
-- ❤️ Programo bots de discord usando Javascript
+- bots de discord verificados.
 ---
 
 # CONTACTO
@@ -21,7 +20,7 @@
 <a href="https://twitter.com/expertgodgg">
   <img align="right" alt="ExpertGod Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/pxS868BWeF">
+<a href="https://discord.gg/4zgxmJJbf6">
   <img align="right" alt="ExpertGod Discord" width="21px" src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png" />
 </a>
 <a href="https://www.youtube.com/channel/UC05ZWbCx1mIqA3F_Y7f8G-g">
